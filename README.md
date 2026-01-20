@@ -1,11 +1,6 @@
 # Skooldio Data Analysis BoostCamp 8th:
 
-![image](DSC09678.jpg)
-
-#### instructor: 
-![image](all_teacher.png)
-
-### Certifications:
+# Certifications:
 
 ![image](allskoodiecert.png)
 
